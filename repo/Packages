@@ -1,0 +1,149 @@
+Package: com.evilgoldfish.auxgrabber
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 184
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Filename: .//com.evilgoldfish.auxgrabber_1.0.0-2_iphoneos-arm.deb
+Size: 12748
+MD5sum: bb37e14ef4cab3cff8cd551bce3f667b
+SHA1: cffbe40db40fa934dc7af0097ca432625b49f994
+SHA256: bf7e186bc0377ec409bedadeb062a60c3bacec5873b48c76ef15dc98b9a24891
+Section: Tweaks
+Description: Add an extra grabber on the bottom left of the lock screen.
+Author: evilgoldfish
+Depiction: http://evilgoldfish.github.io/repo/auxgrabber/index.html
+Name: AuxGrabber
+
+Package: com.evilgoldfish.brightplayer
+Version: 1.0.3-beta-6
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: kr.slak.rotatevideo
+Filename: .//com.evilgoldfish.brightplayer_1.0.3-beta-6_iphoneos-arm.deb
+Size: 37616
+MD5sum: 4826414da28bb7729b99ab60ff7026e2
+SHA1: 3147780ca381a4b538fa74af09f6e3a8df5b9811
+SHA256: 979d61798e1339d6c7d07f23bf9f2b52bee96c3c404c86bde552bd3240f7eae5
+Section: Tweaks
+Description: Adds a brightness slider in the iOS media player.
+Author: evilgoldfish <epdev@icloud.com>
+Name: BrightPlayer
+
+Package: com.evilgoldfish.failsafe
+Version: 1.0.2-12
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: .//com.evilgoldfish.failsafe_1.0.2-12_iphoneos-arm.deb
+Size: 15704
+MD5sum: 3c4407ac8e2598a5a21e10c5dab4c78e
+SHA1: 81e3dfd5a4a8fd0ae144e46267a179bcbd0aa658
+SHA256: 4de635e35c41f8acbe7e40159080e53c5e2e482c4bd2d6bdfdf12f62ed28c50f
+Section: Tweaks
+Description: Disable Airplane Mode and enable Wi-Fi, Data and Location Services when an incorrect passcode is entered.
+Author: evilgoldfish
+Depiction: http://evilgoldfish.github.io/repo/failsafe/index.html
+Name: FailSafe
+
+Package: com.evilgoldfish.floativator
+Version: 0.9.3-5
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 260
+Depends: mobilesubstrate, libactivator, preferenceloader
+Filename: .//com.evilgoldfish.floativator_0.9.3-5_iphoneos-arm.deb
+Size: 50030
+MD5sum: 8ca3373ba0a66c96c08014c718a83dad
+SHA1: 8926971e74bfe0b1a74c3f982ee7fd1277b37d69
+SHA256: a4e8b7090167596fb99c47bb864c02ea50db34e61bd2d8e014aae03044d0a290
+Section: Tweaks
+Description: A tweak that creates floating buttons that can be assigned Activator actions.
+Author: evilgoldfish
+Depiction: http://evilgoldfish.github.io/repo/floativator/index.html
+Name: Floativator
+
+Package: com.evilgoldfish.iconresizer
+Version: 0.9.3-2
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish & broganminer
+Installed-Size: 248
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: .//com.evilgoldfish.iconresizer_0.9.3-2_iphoneos-arm.deb
+Size: 49586
+MD5sum: 8e91b9fff37bcc7428faf9298d703f4f
+SHA1: f72561d875d5239845fea05b58431f97924f8729
+SHA256: 0d4891c9bb590caed3e0e738ce2964cc477c4d32414e962f7024c13333987f9f
+Section: Tweaks
+Description: A tweak to resize individual icons.
+Author: evilgoldfish & broganminer
+Depiction: http://evilgoldfish.github.io/repo/iconresizer/index.html
+Name: Icon Resizer
+
+Package: com.evilgoldfish.incorrectpasscodeevent
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish <epdev@icloud.com>
+Installed-Size: 88
+Depends: libactivator (>= 1.8.3), mobilesubstrate
+Filename: .//com.evilgoldfish.incorrectpasscodeevent_1.0.0-1_iphoneos-arm.deb
+Size: 7882
+MD5sum: e0e1b6274272c9cad1c66c6afe64ba62
+SHA1: 0391c4756102aa2740f810bb5ec1e5fb3969b736
+SHA256: 136f8a94f7570eb6cf806b5939622390d3741608a339d4646bd64ee5264f41a9
+Section: Tweaks
+Description: An Activator event that is fired whenever an incorrect passcode or fingerprint is used to unlock the device.
+Author: evilgoldfish <epdev@icloud.com>
+Name: Incorrect Passcode For Activator
+
+Package: com.evilgoldfish.lockglyph
+Version: 1.1.9-17
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 452
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Filename: .//com.evilgoldfish.lockglyph_1.1.9-17_iphoneos-arm.deb
+Size: 103808
+MD5sum: 95b7d05d430e59b139d3c866fcf5a9b7
+SHA1: 1de0856d230b8b2b57685461f625bb64ac43db22
+SHA256: 57505e394a237593e8ba21c6349d0c4690e84cda1e434852214ba026bbc25565
+Section: Tweaks
+Description: Adds the Apple Pay completed payment animation to the lockscreen, and animates when unlocking the device with Touch ID.
+Author: evilgoldfish
+Name: LockGlyph
+
+Package: com.evilgoldfish.nophotosanti-aliasing
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: .//com.evilgoldfish.nophotosanti-aliasing_1.0.0-1_iphoneos-arm.deb
+Size: 3514
+MD5sum: c74c5935aac2d1a42fe7dcc65fe5c8b9
+SHA1: 322d7160514a4323faf9048f058868def1af17fa
+SHA256: 9ae4938f8e590a09b40a177c0ed1369fefeb423a3aa0e88f67cb4e21492d0f0f
+Section: Tweaks
+Description: A minor tweak to disable the anti-aliasing inside the Photos app.
+Author: evilgoldfish
+Name: No Photos Anti-Aliasing
+
+Package: com.evilgoldfish.noplayerblur
+Version: 1.0.2-11
+Architecture: iphoneos-arm
+Maintainer: evilgoldfish
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: .//com.evilgoldfish.noplayerblur_1.0.2-11_iphoneos-arm.deb
+Size: 12746
+MD5sum: 0bf3b2a7882e71977bda666a41b1316a
+SHA1: 1b525e11f2d8b37e5d87656c623c1b11d69ab0ec
+SHA256: 0ffe3374ca24c5c1e28a7812d55d00d5a8dacf80a71f8c7875f2a3bc93256f85
+Section: Tweaks
+Description: Removes the blur on the iOS movie player.
+Author: evilgoldfish <epdev@icloud.com>
+Name: NoPlayerBlur
+
